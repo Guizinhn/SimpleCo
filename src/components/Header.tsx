@@ -25,7 +25,7 @@ export function Header() {
             <MenuIcon size={24} />
           </button>
         </div>
-        <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="hidden md:block bg-[#ff9e2c] hover:bg-[#f08c1a] text-white px-4 py-2 rounded-md font-medium transition-colors">
+        <a href="https://wa.me/5511940023817" target="_blank" rel="noopener noreferrer" className="hidden md:block bg-[#ff9e2c] hover:bg-[#f08c1a] text-white px-4 py-2 rounded-md font-medium transition-colors">
           Fale Conosco
         </a>
       </div>

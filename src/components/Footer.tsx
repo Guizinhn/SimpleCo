@@ -11,15 +11,13 @@ export function Footer() {
               inovação.
             </p>
             <div className="flex space-x-4">
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
+              <a href="https://www.instagram.com/wearesimple.co/" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-white transition-colors">
                 <InstagramIcon size={20} />
               </a>
               <a href="#" className="text-gray-400 hover:text-white transition-colors">
                 <FacebookIcon size={20} />
               </a>
-              <a href="#" className="text-gray-400 hover:text-white transition-colors">
-                <LinkedinIcon size={20} />
-              </a>
+              
             </div>
           </div>
           <div>
@@ -49,9 +47,9 @@ export function Footer() {
           </div>
           <div>
             <h4 className="font-bold text-lg mb-4">Contato</h4>
-            <p className="text-gray-400 mb-2">contato@simpleeco.com.br</p>
-            <p className="text-gray-400 mb-4">+55 (11) 99999-9999</p>
-            <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#00a0b0] hover:bg-[#008a98] text-white px-4 py-2 rounded-md text-sm font-medium transition-colors">
+            <p className="text-gray-400 mb-2">ola@wearesimple.co</p>
+            <p className="text-gray-400 mb-4">+55 (11) 940023817</p>
+            <a href="https://wa.me/5511940023817" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#00a0b0] hover:bg-[#008a98] text-white px-4 py-2 rounded-md text-sm font-medium transition-colors">
               Fale Conosco
             </a>
           </div>

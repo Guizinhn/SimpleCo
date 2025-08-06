@@ -7,6 +7,7 @@ import { Differentials } from './components/Differentials';
 import { Testimonials } from './components/Testimonials';
 import { FinalCTA } from './components/FinalCTA';
 import { Footer } from './components/Footer';
+import { WhatsAppButton } from './components/WhatsAppButton';
 export function App() {
   return <div className="w-full min-h-screen bg-[#f9f5f0]">
       <Header />
@@ -19,5 +20,6 @@ export function App() {
         <FinalCTA />
       </main>
       <Footer />
+      <WhatsAppButton />
     </div>;
 }

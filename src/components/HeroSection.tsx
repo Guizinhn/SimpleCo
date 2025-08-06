@@ -25,11 +25,10 @@ export function HeroSection() {
             delivery e lucra alto com o que já tem!
           </h1>
           <h2 className="text-1xl md:text-2xl mb-8 font-light">
-            Sem investir, sem contratar. A gente pluga marcas de delivery no seu
-            restaurante.
+            Com baixo investimento, a gente pluga nossas marcas de delivery em sua cozinha, e pronto é só faturar!
           </h2>
           <a
-            href="https://wa.me/5511999999999"
+            href="https://wa.me/5511940023817"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-[#ff9e2c] hover:bg-[#f08c1a] text-white px-8 py-4 rounded-md text-lg font-medium transition-colors shadow-lg"

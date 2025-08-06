@@ -18,38 +18,32 @@ export function BrandsCarousel() {
   };
 
   const brands = [
-    
+
     {
       name: "Burguer Simples",
       category: "Hambúrgueres",
-      video: "/public/Burguer simple.mp4",
+      video: "/Burguer simple.mp4",
     },
     {
       name: "Pizza Simples",
       category: "Pizzas",
-      video: "/public/Pizza simples.mp4",
+      video: "/Pizza simples.mp4",
     },
     {
-      name: "Sala simples",
+      name: "Salada simples",
       category: "Alimentação Saudável",
       video:
-        "/public/salada simples.mp4",
+        "/salada simples.mp4",
     },
     {
-      name: "Açaí Carioca",
-      category: "Açaí",
-      image:
-        "https://images.unsplash.com/photo-1502741338009-cac2772e18bc?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      name: "Cozinha Simples",
+      category: "Prato feito",
+      video:
+        "/Cozinha simples.mp4",
     },
-    {
-      name: "Shawarma House",
-      category: "Árabe",
-      image:
-        "https://images.unsplash.com/photo-1529006557810-274b9b2fc783?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-    },
-    
+
   ];
-  
+
   return (
     <section id="marcas" className="py-20 bg-[#f9f5f0]">
       <div className="container mx-auto px-4">

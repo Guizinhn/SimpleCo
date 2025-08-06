@@ -10,7 +10,7 @@ export function FinalCTA() {
           Junte-se a centenas de restaurantes que já transformaram seus negócios
           com a Simple&Co
         </p>
-        <a href="https://wa.me/5511999999999" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#ff9e2c] hover:bg-[#f08c1a] text-white px-8 py-4 rounded-md text-lg font-medium transition-colors shadow-lg">
+        <a href="https://wa.me/5511940023817" target="_blank" rel="noopener noreferrer" className="inline-block bg-[#ff9e2c] hover:bg-[#f08c1a] text-white px-8 py-4 rounded-md text-lg font-medium transition-colors shadow-lg">
           Fale agora com nosso time
         </a>
       </div>
