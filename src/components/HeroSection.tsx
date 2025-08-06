@@ -11,7 +11,7 @@ export function HeroSection() {
   playsInline
   className="absolute inset-0 w-full h-full object-cover z-0"
 >
-  <source src="/public/Cópia de Horizontal_FullHd.mp4" type="video/mp4" />
+  <source src="/Cópia de Horizontal_FullHd.mp4" type="video/mp4" />
 </video>
 
 
