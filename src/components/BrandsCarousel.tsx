@@ -69,6 +69,10 @@ export function BrandsCarousel() {
                     loop
                     muted
                     playsInline
+                    controls={false}
+                    disablePictureInPicture
+                    disableRemotePlayback
+                    style={{ pointerEvents: 'none' }}
                     onMouseEnter={() => handleMouseEnter(index)}
                     onMouseLeave={() => handleMouseLeave(index)}
                   />
