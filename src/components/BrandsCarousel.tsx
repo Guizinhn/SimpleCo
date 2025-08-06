@@ -72,7 +72,9 @@ export function BrandsCarousel() {
                     controls={false}
                     disablePictureInPicture
                     disableRemotePlayback
-                    style={{ pointerEvents: 'none' }}
+                    webkit-playsinline="true"
+                    x-webkit-airplay="allow"
+                    style={{ pointerEvents: 'none', WebkitUserSelect: 'none', userSelect: 'none' }}
                     onMouseEnter={() => handleMouseEnter(index)}
                     onMouseLeave={() => handleMouseLeave(index)}
                   />

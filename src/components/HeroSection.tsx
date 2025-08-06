@@ -12,8 +12,10 @@ export function HeroSection() {
   controls={false}
   disablePictureInPicture
   disableRemotePlayback
+  webkit-playsinline="true"
+  x-webkit-airplay="allow"
   className="absolute inset-0 w-full h-full object-cover z-0"
-  style={{ pointerEvents: 'none' }}
+  style={{ pointerEvents: 'none', WebkitUserSelect: 'none', userSelect: 'none' }}
 >
   <source src="/Cópia de Horizontal_FullHd.mp4" type="video/mp4" />
 </video>
